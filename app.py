@@ -125,4 +125,4 @@ if uploaded_file:
 
 #Footer
 st.markdown("---")
-st.markdown("""<p style= 'text-align: center;' >Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by <a href="https://www.linkedin.com/in/dutta-sujoy/"  target="_blank" style='text-decoration: none; color: #FFFFFF'><b>Sahil </b></a></p>""", unsafe_allow_html=True)
+st.markdown("""<p style= 'text-align: center;' >Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by <a href="https://www.linkedin.com/in/sahil-shende-199334339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  target="_blank" style='text-decoration: none; color: #FFFFFF'><b>Sahil </b></a></p>""", unsafe_allow_html=True)
